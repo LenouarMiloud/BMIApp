@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMIApp</string>
+    <string name="calculate_String">calculate</string>'
+    <string name="bmi_definition"><b>Body mass index </b>(BMI) is a value derived from the mass
+            (weight) and height of a person. The BMI is defined as the body mass divided
+            by the square of the body height, and is expressed in units of kg/m2,
+            resulting from mass in kilograms and height in metres.</string>
+</resources>
