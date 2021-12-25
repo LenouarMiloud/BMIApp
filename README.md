@@ -13,3 +13,9 @@ The Body Mass Index (BMI) Calculator can be used to calculate BMI value and corr
 - Overweight = 25–29.9
 - Obesity = BMI of 30 or greater
 
+## ScreenShots
+
+![](https://github.com/LenouarMiloud/BMIApp/blob/main/screenshots/Screenshot1.jpg)
+![](https://github.com/LenouarMiloud/BMIApp/blob/main/screenshots/Screenshot2.jpg)
+![](https://github.com/LenouarMiloud/BMIApp/blob/main/screenshots/Screenshot3.jpg)
+
